@@ -1,0 +1,128 @@
+{
+  "sentences": [
+    {
+      "client_name": "John Doe",
+      "text": "I'm having trouble with my account balance. Can you help me?"
+    },
+    {
+      "client_name": "Jane Smith",
+      "text": "I'd like to request a loan to buy a new car. What are the requirements?"
+    },
+    {
+      "client_name": "Bob Johnson",
+      "text": "I've been charged incorrectly for a transaction. Can you reverse the charge?"
+    },
+    {
+      "client_name": "Maria Rodriguez",
+      "text": "I'd like to open a new savings account. What are the benefits?"
+    },
+    {
+      "client_name": "David Lee",
+      "text": "I've lost my debit card. Can you cancel it and issue a new one?"
+    },
+    {
+      "client_name": "Emily Chen",
+      "text": "I'd like to invest in a retirement plan. What options do you offer?"
+    },
+    {
+      "client_name": "Kevin White",
+      "text": "I've been having issues with online banking. Can you help me troubleshoot?"
+    },
+    {
+      "client_name": "Sarah Taylor",
+      "text": "I'd like to request a credit limit increase. What's the process?"
+    },
+    {
+      "client_name": "Michael Brown",
+      "text": "I've received a suspicious email from the bank. Is it legitimate?"
+    },
+    {
+      "client_name": "Lisa Nguyen",
+      "text": "I'd like to close my account. What are the steps?"
+    },
+    {
+      "client_name": "Jessica Davis",
+      "text": "Can you help me with a wire transfer?"
+    },
+    {
+      "client_name": "Christopher Martin",
+      "text": "I'm having trouble with my mobile banking app. Can you assist me?"
+    },
+    {
+      "client_name": "Amanda Hall",
+      "text": "I'd like to apply for a credit card. What are the requirements?"
+    },
+    {
+      "client_name": "Brian Thompson",
+      "text": "I've forgotten my online banking password. Can you reset it?"
+    },
+    {
+      "client_name": "Nicole Jackson",
+      "text": "Can you help me with a loan application?"
+    },
+    {
+      "client_name": "Matthew Lewis",
+      "text": "I've been charged a fee for overdraft. Can you explain why?"
+    },
+    {
+      "client_name": "Elizabeth Harris",
+      "text": "I'd like to set up direct deposit. How do I do that?"
+    },
+    {
+      "client_name": "James Wilson",
+      "text": "Can you help me with a mortgage application?"
+    },
+    {
+      "client_name": "Rebecca Garcia",
+      "text": "I've lost my credit card. Can you cancel it and issue a new one?"
+    },
+    {
+      "client_name": "Daniel Martin",
+      "text": "I'd like to open a new checking account. What are the benefits?"
+    },
+    {
+      "client_name": "Heather Brooks",
+      "text": "Can you help me with a transfer between accounts?"
+    },
+    {
+      "client_name": "Richard Lee",
+      "text": "I've been having issues with my debit card. Can you assist me?"
+    },
+    {
+      "client_name": "Stephanie Hall",
+      "text": "I'd like to apply for a personal loan. What are the requirements?"
+    },
+    {
+      "client_name": "Laura Davis",
+      "text": "Can you help me with a credit report?"
+    },
+    {
+      "client_name": "Joseph Taylor",
+      "text": "I've forgotten my PIN number. Can you reset it?"
+    },
+    {
+      "client_name": "Katherine Johnson",
+      "text": "I'd like to set up online banking. How do I do that?"
+    },
+    {
+      "client_name": "William Brown",
+      "text": "Can you help me with a wire transfer?"
+    },
+    {
+      "client_name": "Samantha White",
+      "text": "I've been charged a fee for ATM usage. Can you explain why?"
+    },
+    {
+      "client_name": "Olivia Martin",
+      "text": "I'd like to open a new IRA account. What are the benefits?"
+    },
+    {
+      "client_name": "Benjamin Lee",
+      "text": "Can you help me with a loan application?"
+    },
+    {
+      "client_name": "Abigail Harris",
+      "text": "I've lost my account information. Can you provide it to me?"
+    }
+  ]
+}
